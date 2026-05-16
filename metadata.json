@@ -1,0 +1,8 @@
+{
+  "name": "禅意五子棋 (Zen Gomoku)",
+  "description": "一个简洁美观的网页版 15x15 五子棋游戏，支持黑白交替落子、胜负判定及一键重置。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
